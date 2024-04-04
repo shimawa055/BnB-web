@@ -1,0 +1,10 @@
+iframe {
+  border: none;
+}
+
+.chat-widget {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 4px;
+}
